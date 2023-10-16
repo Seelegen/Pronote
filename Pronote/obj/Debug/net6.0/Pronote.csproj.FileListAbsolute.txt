@@ -1,0 +1,17 @@
+C:\Users\Martin\source\repos\Pronote\Pronote\bin\Debug\net6.0\Pronote.exe
+C:\Users\Martin\source\repos\Pronote\Pronote\bin\Debug\net6.0\Pronote.deps.json
+C:\Users\Martin\source\repos\Pronote\Pronote\bin\Debug\net6.0\Pronote.runtimeconfig.json
+C:\Users\Martin\source\repos\Pronote\Pronote\bin\Debug\net6.0\Pronote.dll
+C:\Users\Martin\source\repos\Pronote\Pronote\bin\Debug\net6.0\Pronote.pdb
+C:\Users\Martin\source\repos\Pronote\Pronote\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Martin\source\repos\Pronote\Pronote\obj\Debug\net6.0\Pronote.csproj.AssemblyReference.cache
+C:\Users\Martin\source\repos\Pronote\Pronote\obj\Debug\net6.0\Pronote.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martin\source\repos\Pronote\Pronote\obj\Debug\net6.0\Pronote.AssemblyInfoInputs.cache
+C:\Users\Martin\source\repos\Pronote\Pronote\obj\Debug\net6.0\Pronote.AssemblyInfo.cs
+C:\Users\Martin\source\repos\Pronote\Pronote\obj\Debug\net6.0\Pronote.csproj.CoreCompileInputs.cache
+C:\Users\Martin\source\repos\Pronote\Pronote\obj\Debug\net6.0\Pronote.csproj.CopyComplete
+C:\Users\Martin\source\repos\Pronote\Pronote\obj\Debug\net6.0\Pronote.dll
+C:\Users\Martin\source\repos\Pronote\Pronote\obj\Debug\net6.0\refint\Pronote.dll
+C:\Users\Martin\source\repos\Pronote\Pronote\obj\Debug\net6.0\Pronote.pdb
+C:\Users\Martin\source\repos\Pronote\Pronote\obj\Debug\net6.0\Pronote.genruntimeconfig.cache
+C:\Users\Martin\source\repos\Pronote\Pronote\obj\Debug\net6.0\ref\Pronote.dll
